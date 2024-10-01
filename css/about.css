@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.page1 h3{
+    position: absolute;
+    top:30%;
+}
+
+.page1 button{
+    position: absolute;
+    top:85%;
+}
